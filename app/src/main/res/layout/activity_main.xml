@@ -20,6 +20,7 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_marginBottom="75dp"
+        android:elevation = "4dp"
         app:layout_constraintBottom_toBottomOf="@+id/view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
